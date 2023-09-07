@@ -1,0 +1,3 @@
+beckground gradient warna hideung abu kemiringan -90°
+teks pake outer glow warna putih
+objek bawa di google terus di tranperency harg light
